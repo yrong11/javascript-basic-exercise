@@ -16,5 +16,4 @@ export default function countCharacter(string, prediction) {
     return len;
   }
   return string.length;
-  throw new Error('Please delete this line and implement the function');
 }
